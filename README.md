@@ -85,5 +85,3 @@ cnn-image-classification/
 </p>
 ```
 
-I can also create the actual **`README.md` file for you** so you don't have to copy this manually.
-
