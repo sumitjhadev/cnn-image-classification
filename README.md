@@ -1,5 +1,5 @@
 
-  # 🧠 CNN Image Classification
+  # 🧠 CNN Image Classification.
 
 <p align="center">
   <b>CIFAR-10 Image Classification using PyTorch</b>
